@@ -26,12 +26,12 @@
         
 
 - chown <br>
-    改变文件或目录的属主（所有者）
+    改变文件或目录的属主（所有者） <br>
        ` chown eagle test//将test文件所属的主改为eagle`
        <br>
 
 - chgrp <br>
-    改变文件或目录所属的组
+    改变文件或目录所属的组 <br>
        ` chgrp eagle test//将test文件所属的组改为eagle `
        <br>
 
