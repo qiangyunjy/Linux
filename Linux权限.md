@@ -1,4 +1,4 @@
-##Linux基本权限
+## Linux基本权限<br>
 文件/目录权限：
 
         r--读
@@ -14,7 +14,7 @@
 ### 与权限相关的命令
      查看目录/文件的权限：ls -l 
     
-- chmod
+- chmod <br>
     改变文件或目录的权限
     命令：
 
@@ -25,12 +25,12 @@
         注：-R表示对目录中的所有文件或子目录进行递归操作
         
 
-- chown
+- chown <br>
     改变文件或目录的属主（所有者）
        ` chown eagle test//将test文件所属的主改为eagle`
        <br>
 
-- chgrp
+- chgrp <br>
     改变文件或目录所属的组
        ` chgrp eagle test//将test文件所属的组改为eagle `
        <br>
